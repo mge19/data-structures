@@ -1,0 +1,6 @@
+name          arriving time      treatment time    complaint
+Ali           5                  10                YELLOW 
+Ahmet         0                  2                 YELLOW 
+Ayse          10                 4                 GREEN 
+Aybuke        4                  7                 RED 
+Mustafa       1                  3                 GREEN          
